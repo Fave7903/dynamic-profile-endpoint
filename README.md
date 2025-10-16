@@ -87,7 +87,7 @@ GET http://localhost:3000/me
 The deployed API URL is also available to test:
 
 ```
-GET https://dynamic-profile--gxhkc3gpcuf2g6ej.italynorth-01.azurewebsites.net/me
+GET https://dynamic-profile-gxhkc3gpcuf2g6ej.italynorth-01.azurewebsites.net/me
 ```
 
 ### Example Response:
