@@ -110,7 +110,7 @@ If the external API fails or times out, you’ll get a graceful fallback:
 ```json
 {
   "error": "Failed to fetch cat fact.",
-  "fallback": "Fun fact: Cats sleep 70% of their lives 😺"
+  "fallback": "Fun fact: Cats sleep 70% of their lives"
 }
 ```
 
